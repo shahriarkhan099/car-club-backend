@@ -6,8 +6,7 @@
     "build": "npx tsc",
     "dev": "npx tsc && npx nodemon dist/index.js",
     "start": "nodemon",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build-and-start": "npm run build && npm run dev"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
